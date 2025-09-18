@@ -1,5 +1,6 @@
+#**Netflix Project**
 ![Netflix Logo](https://github.com/ShuvankarBhattacharjee/Netflix_data_project_03/blob/main/netflix_logo.png)
-**Netflix Project**
+
 ```
 CREATE TABLE netflix
 (
