@@ -1,8 +1,22 @@
 # **Netflix Project**![Netflix Logo](https://github.com/ShuvankarBhattacharjee/Netflix_data_project_03/blob/main/netflix_logo.png)
 
 **DESCRIPTION**
-In this project, I took this dataset from Kaggle and used basic Excel formulas to clean data and then used sql querries to clean data at a much deeper level and also to get 16 industry-level question answers.
+This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and
+answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives,
+business problems, solutions, findings, and conclusions.
 
+**OBJECTIVES**
+
+· Analyze the distribution of content types (movies vs TV shows).
+. Identify the most common ratings for movies and TV shows.
+. List and analyze content based on release years, countries, and durations.
+· Explore and categorize content based on specific criteria and keywords.
+
+**DATASET**
+The data for this project is sourced from the Kaggle dataset.
+
+
+**SCHEMA**
 ```
 CREATE TABLE netflix
 (
