@@ -1,5 +1,8 @@
 # **Netflix Project**![Netflix Logo](https://github.com/ShuvankarBhattacharjee/Netflix_data_project_03/blob/main/netflix_logo.png)
 
+***DESCRIPTION**
+In this project, I took this dataset from kaggle and use basic excel formulas to clean data and then used sql querries to clean data in a much deeper level and also to get 16 industry level question answers.
+
 ```
 CREATE TABLE netflix
 (
